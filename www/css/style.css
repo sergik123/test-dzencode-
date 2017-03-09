@@ -1,0 +1,21 @@
+#form_comment{
+	width: 40%;
+}
+#comment_text li img{
+	width: 30px;
+}
+#comment_text li span{
+	margin-left: 10px;
+	font-size: 14px;
+	font-weight: bold;
+}
+#sort span{
+	margin-right: 10px;
+
+}
+#sort a{
+	margin-left: 10px;
+}
+#sort{
+		margin-bottom: 20px;
+}
